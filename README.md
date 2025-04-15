@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-guti%C3%A9rrez-hijosa-73b19b358/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](magutierrezhijosa@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:magutierrezhijosa@gmail.com)
