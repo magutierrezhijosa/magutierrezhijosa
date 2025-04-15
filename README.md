@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Tu Usuario GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/magutierrezhijosa&show_icons=true&theme=radical)
+![Tu Usuario GitHub stats](https://github-readme-stats.vercel.app/api?username=magutierrezhijosa&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/magutierrezhijosa&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magutierrezhijosa&layout=compact&theme=radical)
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguel-angel-guti%C3%A9rrez-hijosa-73b19b358/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:magutierrezhijosa@gmail.com
-)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-guti%C3%A9rrez-hijosa-73b19b358/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](magutierrezhijosa@gmail.com)
