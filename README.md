@@ -8,8 +8,7 @@ My name is Miguel Angel Gutierrez Hijosa and this is my GitHub profile.
 - 🔭 Coding since 2024
 - 🌱 I’m currently learning Django and MySQL
 - ⚡ Goals: JavaScript , Python y React
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 
 
 ## 📫 Contact
 
@@ -33,10 +32,10 @@ My name is Miguel Angel Gutierrez Hijosa and this is my GitHub profile.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 ## 📊 GitHub Stats
 
-![Tu Usuario GitHub stats](https://github-readme-stats.vercel.app/api?username=magutierrezhijosa&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magutierrezhijosa&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magutierrezhijosa&layout=compact&theme=radical)
 
 
