@@ -11,6 +11,10 @@ My name is Miguel Angel Gutierrez Hijosa and this is my GitHub profile.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-guti%C3%A9rrez-hijosa-73b19b358/)
+
 
 ## 🧰 Technologies and tools
 
@@ -35,7 +39,4 @@ My name is Miguel Angel Gutierrez Hijosa and this is my GitHub profile.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magutierrezhijosa&layout=compact&theme=radical)
 
-## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-guti%C3%A9rrez-hijosa-73b19b358/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:magutierrezhijosa@gmail.com)
