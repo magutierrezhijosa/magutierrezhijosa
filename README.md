@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there , I am a Full-Stack Developer👋
+My name is Miguel Angel Gutierrez Hijosa and this  is my GitHub profile.
 
 <!--
 **magutierrezhijosa/magutierrezhijosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
