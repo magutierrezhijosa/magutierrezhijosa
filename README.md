@@ -51,3 +51,5 @@ My name is Miguel Angel Gutierrez Hijosa and this is my GitHub profile.
     </td>
   </tr>
 </table>
+
+![](https://nirzak-streak-stats.vercel.app/?user=magutierrezhijosa&theme=radical&hide_border=true)<br/>
