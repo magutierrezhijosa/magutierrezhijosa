@@ -1,7 +1,3 @@
-<!-- Cabecera -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/magutierrezhijosa/magutierrezhijosa/main/FULL-ST.png" alt="Banner" />
-</p>
 
 ## Hi there , I am a Full-Stack Developer from Spain 👋
 
@@ -52,9 +48,6 @@ My name is Miguel Angel Gutierrez Hijosa and this is my GitHub profile.
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magutierrezhijosa&layout=compact&theme=radical" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=magutierrezhijosa&theme=radical" height="150"/>
     </td>
   </tr>
 </table>
