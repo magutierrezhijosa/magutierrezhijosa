@@ -1,24 +1,19 @@
-
-## Hi there , I am a Full-Stack Developer from Spain 👋
+## Hi there , I am a Full-Stack Developer from Spain👋
 
 My name is Miguel Angel Gutierrez Hijosa and this is my GitHub profile.
 
----
 
 ## 🚀 About me 
 
-- 🔭 Coding since 2024  
-- 🌱 I’m currently learning Django and MySQL  
-- ⚡ Goals: JavaScript , Python y React  
-- 💬 Fun Fact: I fix bugs that I created myself  
-
----
+- 🔭 Coding since 2024
+- 🌱 I’m currently learning Django and MySQL
+- ⚡ Goals: JavaScript , Python y React
+- 💬 Fun Fact: I fix bugs that I created myself
 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-guti%C3%A9rrez-hijosa-73b19b358/)
 
----
 
 ## 🧰 Technologies and tools
 
@@ -37,17 +32,8 @@ My name is Miguel Angel Gutierrez Hijosa and this is my GitHub profile.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=magutierrezhijosa&show_icons=true&theme=radical" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magutierrezhijosa&layout=compact&theme=radical" height="150"/>
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magutierrezhijosa&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magutierrezhijosa&layout=compact&theme=radical)
